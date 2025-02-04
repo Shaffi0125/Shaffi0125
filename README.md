@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Shaffi! 👋
 
-<!--
-**Shaffi0125/Shaffi0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning backend technologies
+- 👯 I’m looking to collaborate on web dev project
+- 📫 How to reach me: shaffijindal58876@gmail.com
+- ⚡ Fun fact: I write bugs faster than I fix them!
+
+## GitHub Stats
+
+![Shaffi0125's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaffi0125&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaffi0125&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/shaffi-617784239/)
+
+Thanks for visiting my profile!
